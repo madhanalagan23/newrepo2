@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 Hello, Myname is developer 2,
 I am from delhi,
-=======
-Hello, Myname is dev1branch,
-I am from bangalore,
->>>>>>> dev1branch
 i like movies.
